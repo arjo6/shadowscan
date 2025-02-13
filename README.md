@@ -1,4 +1,4 @@
-# ShadowScan - Network Scanner (No Scapy)
+# ShadowScan - Network Scanner 
 
 ShadowScan is a lightweight command-line tool for scanning networks and identifying connected devices without using Scapy.
 
@@ -16,7 +16,7 @@ ShadowScan is a lightweight command-line tool for scanning networks and identify
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/ShadowScan.git
+git clone https://github.com/arjo6/ShadowScan.git
 cd ShadowScan
 pip3 install -r requirements.txt
 ```
